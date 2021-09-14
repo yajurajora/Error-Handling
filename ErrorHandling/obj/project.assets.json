@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ErrorHandling.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ErrorHandling.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ErrorHandling.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ErrorHandling.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ErrorHandling.Domain/ErrorHandling.Domain.csproj",
+      "msbuildProject": "../ErrorHandling.Domain/ErrorHandling.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ErrorHandling.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yaju.rajora\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Yaju\\Error  handling\\ErrorHandling\\ErrorHandling.csproj",
+      "projectName": "ErrorHandling",
+      "projectPath": "E:\\Yaju\\Error  handling\\ErrorHandling\\ErrorHandling.csproj",
+      "packagesPath": "C:\\Users\\yaju.rajora\\.nuget\\packages\\",
+      "outputPath": "E:\\Yaju\\Error  handling\\ErrorHandling\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\yaju.rajora\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "E:\\Yaju\\Error  handling\\ErrorHandling.Domain\\ErrorHandling.Domain.csproj": {
+              "projectPath": "E:\\Yaju\\Error  handling\\ErrorHandling.Domain\\ErrorHandling.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

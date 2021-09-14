@@ -1,0 +1,10 @@
+E:\Yaju\Error  handling\ErrorHandling.Domain\bin\Debug\netcoreapp3.1\ErrorHandling.Domain.deps.json
+E:\Yaju\Error  handling\ErrorHandling.Domain\bin\Debug\netcoreapp3.1\ErrorHandling.Domain.dll
+E:\Yaju\Error  handling\ErrorHandling.Domain\bin\Debug\netcoreapp3.1\ErrorHandling.Domain.pdb
+E:\Yaju\Error  handling\ErrorHandling.Domain\obj\Debug\netcoreapp3.1\ErrorHandling.Domain.csproj.AssemblyReference.cache
+E:\Yaju\Error  handling\ErrorHandling.Domain\obj\Debug\netcoreapp3.1\ErrorHandling.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yaju\Error  handling\ErrorHandling.Domain\obj\Debug\netcoreapp3.1\ErrorHandling.Domain.AssemblyInfoInputs.cache
+E:\Yaju\Error  handling\ErrorHandling.Domain\obj\Debug\netcoreapp3.1\ErrorHandling.Domain.AssemblyInfo.cs
+E:\Yaju\Error  handling\ErrorHandling.Domain\obj\Debug\netcoreapp3.1\ErrorHandling.Domain.csproj.CoreCompileInputs.cache
+E:\Yaju\Error  handling\ErrorHandling.Domain\obj\Debug\netcoreapp3.1\ErrorHandling.Domain.dll
+E:\Yaju\Error  handling\ErrorHandling.Domain\obj\Debug\netcoreapp3.1\ErrorHandling.Domain.pdb
